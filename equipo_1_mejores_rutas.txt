@@ -1,0 +1,17 @@
+MEJORES RUTAS ENCONTRADAS
+
+Gladiador: El Explorador
+Mejor ejecución: Semilla 47
+Distancia: 541.32 km
+Ruta: [14, 6, 5, 16, 15, 9, 4, 12, 13, 20, 11, 3, 1, 10, 24, 25, 22, 0, 26, 28, 19, 27, 21, 8, 23, 18, 2, 7, 29, 17]
+
+Gladiador: El Explotador
+Mejor ejecución: Semilla 43
+Distancia: 619.42 km
+Ruta: [24, 4, 9, 16, 12, 13, 11, 15, 5, 6, 2, 23, 8, 18, 29, 7, 17, 20, 14, 3, 25, 1, 26, 21, 19, 27, 28, 22, 0, 10]
+
+Gladiador: El Balanceado
+Mejor ejecución: Semilla 48
+Distancia: 507.19 km
+Ruta: [2, 7, 29, 17, 20, 6, 11, 4, 12, 13, 9, 16, 15, 5, 14, 3, 25, 10, 24, 1, 0, 22, 26, 28, 19, 27, 21, 23, 8, 18]
+

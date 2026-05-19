@@ -1,0 +1,72 @@
+======================================================================
+VALIDADOR AUTOMATICO - SESION 3: TORNEO DE CONFIGURACIONES
+Profesor: Sebastian Gonzalez Zepeda
+======================================================================
+Equipo: 1
+Archivo: equipo_1_gladiadores.py
+----------------------------------------------------------------------
+
+[1/8] Validando existencia del archivo...
+    OK: Archivo presente y accesible [+5 pts]
+
+[2/8] Validando sintaxis del codigo...
+    OK: Sintaxis Python valida [+5 pts]
+
+[3/8] Validando importacion del modulo...
+    OK: Modulo importado exitosamente [+10 pts]
+
+[4/8] Validando configuraciones de gladiadores...
+    Encontre configuraciones en variable 'CONFIGS'
+
+    Validando 'explorador'...
+      OK: Estructura correcta [+3 pts]
+      Parametros obligatorios: 4/4 detectados
+
+    Validando 'explotador'...
+      OK: Estructura correcta [+3 pts]
+      Parametros obligatorios: 4/4 detectados
+
+    Validando 'balanceado'...
+      OK: Estructura correcta [+3 pts]
+      OK: Configuracion completa
+
+    Resumen: 3/3 gladiadores encontrados
+    Total configuraciones: [+9 pts]
+
+[5/8] Validando implementacion de operadores...
+    OK: Operador seleccion encontrado (seleccion_torneo) [+2 pts]
+    OK: Operador cruzamiento encontrado (cruzamiento_order) [+2 pts]
+    OK: Operador mutacion encontrado (mutacion_swap) [+2 pts]
+
+[6/8] Validando funcion principal de AG...
+    OK: Funcion AG encontrada (algoritmo_genetico) [+5 pts]
+
+[7/8] Validando manejo de semillas aleatorias...
+    OK: Manejo de semillas detectado [+5 pts]
+
+[8/8] Validando formato de salida (CSV)...
+    OK: CSV encontrado con 30 filas [+5 pts]
+    OK: Todas las columnas presentes
+
+======================================================================
+RESUMEN DE VALIDACION
+======================================================================
+Equipo: 1
+Puntuacion obtenida: 50/50 puntos
+Porcentaje: 100.0%
+Evaluacion: EXCELENTE
+
+Detalles por criterio:
+  [1] Archivo existe y accesible:     5 pts
+  [2] Sintaxis Python valida:         5 pts
+  [3] Modulo importable:             10 pts
+  [4] Configuraciones completas:      9 pts (3 por gladiador)
+  [5] Operadores implementados:       6 pts (2 por tipo)
+  [6] Funcion AG presente:            5 pts
+  [7] Manejo de semillas:             5 pts
+  [8] Formato CSV correcto:           5 pts
+                                    -------
+                             TOTAL: 50 pts
+
+ESTADO: APROBADO - Codigo listo para competir
+======================================================================
